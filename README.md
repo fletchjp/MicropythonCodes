@@ -27,6 +27,10 @@ I had obtained one some time ago and been unable to find any software for the Ar
 
 I have now been able to make use of the HAT with code written in Micropython. I am using Micropython for CBUS written by Duncan Greenwood.
 
+## keypad examples
+
+Examples with a 4 by 4 keypad attached to the Raspberry Pi Pico.
+
 ## uasyncio examples
 
 These are examples of how to use uasyncio to control different tasks.
