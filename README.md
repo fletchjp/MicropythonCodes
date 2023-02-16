@@ -17,7 +17,20 @@ I am currently using Thonny to edit my codes.
 
 John Fletcher February 2023
 
+## Hardware
+
+I have two copies of the Pico Hat Expansion from sb Components. These make it possible to combine a Raspberry Pi Pico with a HAT designed for a Raspberry Pi.
+
+I also obtained a HAT which has CAN and RS485 ports with the necessary hardware to support communication.
+
+I had obtained one some time ago and been unable to find any software for the Arduino-Pico C++ system which would enable me to use the ports.
+
+I have now been able to make use of the HAT with code written in Micropython. I am using Micropython for CBUS written by Duncan Greenwood.
+
 ## uasyncio examples
 
 These are examples of how to use uasyncio to control different tasks.
 
+## uart_examples
+
+These are examples of the codes sending simple messages over the RS485 connection.
